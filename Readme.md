@@ -39,7 +39,7 @@ Este curso tem como objetivo ensinar os principais conceitos da linguagem JavaSc
 - HTML5 e CSS3 (para projetos práticos)
 - VS Code
 - Git e GitHub
-
+usuario
 
 ---
 
@@ -59,8 +59,8 @@ Este repositório está em constante atualização conforme avanço no curso. Fi
 
 Se quiser trocar uma ideia ou tirar dúvidas, me chama por aqui:
 
-- GitHub: [seu-usuario](https://github.com/seu-usuario)
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-usuario)
+- GitHub: [Leonardo Oliveira](https://github.com/PedroLeoo07)
+- LinkedIn: [Leonardo Oliveira](https://www.linkedin.com/in/leonardo-oliveira-38aab7321)
 
 ---
 
