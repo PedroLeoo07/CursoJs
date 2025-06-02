@@ -1,0 +1,57 @@
+Aula 06 - Manipulação de dados
+
+Data Types 
+
+Number - Infinity e NaN
+String 
+Boolean
+Null
+Undefined
+Object - Array
+Function
+
+---------------------------------------------
+
+Os comentários no JavaScript serve para concatenar
+
+--------------------------------------------------
+
+Como converter string em number
+
+Number.parseInt(n) essa função faz com que o número fique inteiro
+
+Number.parseFloat(n) essa função faz com o que o número possa ter virgula
+
+Number(n) essa função faz com que o Js escolha como vai ser o número (Float ou Int)
+
+---------------------------------------------------------------------
+
+Como converter number em string
+
+String(n) essa função gera um string
+
+n.toString() essa função faz a conversão do número em string
+
+------------------------------------------------------------------
+
+Formatando Strings
+
+let s = 'JavaScript'
+
+'Eu estou aprendendo s' // não faz interpolação
+'Eu estou aprendendo' + s // usa concatenação
+`Eu estou aprendendo ${s}` // usa template string
+
+s.length //quantos caracteres a string tem
+s.toUpperCase() //tudo para 'MAIUSCULAS'
+s.toLowerCase() //tudo para 'minusculas'
+
+-------------------------------------------------------------
+
+Formatando Numbers
+
+toFixed serve para formatar a variavel do tipo number
+let n1 = 1543
+n1.toFixed(2) isso faz com que o número fique com 2 casas decimais
+n1.toFixed(2).replace('.', ',') essa comando troca o que está presente no numero
+n1.toLocaleString('pt-BR', {style: 'currenncy', currency: 'BRL'})
